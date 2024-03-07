@@ -2,12 +2,12 @@
   items:
     - title: Projects
       url: https://www.example.org
-      icon: line-md:briefcase-twotone
+#      icon: line-md:briefcase-twotone
       
     - title: Photography
       url: https://www.example.com
-      icon: line-md:image-twotone
+  #    icon: line-md:image-twotone
       
     - title: Curriculum Vitae
       url: https://www.example.com
-      icon: line-md:clipboard-list-twotone
+  #    icon: line-md:clipboard-list-twotone
