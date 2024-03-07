@@ -1,29 +1,29 @@
 - name: facebook
   url: https://www.facebook.com/example
   icon: ri:facebook-fill
-  color: '#1877F2'
+  color: '#464646'
 
 - name: instagram
   url: https://www.instagram.com/example
   icon: ri:instagram-fill
-  color: '#E4405F'
+  color: '#464646'
 
 - name: x
   url: https://x.com/example
   icon: ri:twitter-x-fill
-  color: '#1D9BF0'
+  color: '#464646'
 
 - name: mastodon
   url: https://mastodon.social/@example
   icon: ri:mastodon-fill
-  color: '#6364FF'
+  color: '#464646'
 
 - name: whatsapp
   url: https://wa.me/1XXXXXXXXXX
   icon: ri:whatsapp-fill
-  color: '#25D366'
+  color: '#464646'
 
 - name: youtube
   url: https://www.youtube.com/@example
   icon: ri:youtube-fill
-  color: '#FF0000'
+  color: '#464646'
