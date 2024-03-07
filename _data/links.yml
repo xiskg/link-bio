@@ -1,9 +1,9 @@
 - category:
   items:
+    - title: Projects
+      url: https://www.example.org
+      icon: line-md:briefcase-twotone
+      
     - title: Curriculum Vitae
       url: https://www.example.com
-      icon: pepicons-pencil:cv
-
-    - title: Example 2
-      url: https://www.example.org
-      icon: simple-icons:googlenews
+      icon: line-md:clipboard-list-twotone
