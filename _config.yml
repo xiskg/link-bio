@@ -4,7 +4,7 @@ theme: linkhub-jekyll-theme
 # Site Configuration
 name: João de Almeida  # Name of your website
 tagline: João | Brand Designer  # Set your preferred page title
-description: Branding, typography, fotography.  # Also used as a meta description
+description: Branding | Typography | Photography  # Also used as a meta description
 favicon: https://picsum.photos/32/32 # Path / URL to the favicon of your website (e.g., 'assets/images/favicon.png')
 logo: https://picsum.photos/200 # Path / URL to the logo (e.g., 'assets/images/logo.png')
 url: https://dealmeida.me # URL of your website
@@ -20,7 +20,7 @@ image:
   alt: logo
 
 # Verified Badge Configuration
-badge: true  # Set to 'true' or 'false' to enable / disable the badge
+badge: false  # Set to 'true' or 'false' to enable / disable the badge
 icon: ri:verified-badge-fill  # Enter the icon name for the badge from Iconify Design (https://icon-sets.iconify.design/)
 color: '#dfb221'  # Define the color of the badge
  
