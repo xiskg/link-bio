@@ -25,5 +25,5 @@
 
 - name: email
   url: mailto:joao@dealmeida.me
-  icon: mdi:email
+  icon: mdi:email-outline
   color: '#CCCCCC'
