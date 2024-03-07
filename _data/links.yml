@@ -11,3 +11,7 @@
     - title: Curriculum Vitae
       url: https://www.example.com
       icon: line-md:clipboard-list-twotone
+      
+    - title: E-mail
+      url: mailto:joao@dealmeida.me
+      icon: line-md:email-twotone
