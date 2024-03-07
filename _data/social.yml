@@ -22,8 +22,3 @@
   url: https://wa.me/5515991255609
   icon: mdi:whatsapp
   color: '#CCCCCC'
-
-- name: email
-  url: mailto:joao@dealmeida.me
-  icon: mdi:email-outline
-  color: '#CCCCCC'
