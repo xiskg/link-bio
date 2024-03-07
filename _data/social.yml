@@ -1,23 +1,7 @@
-#- name: facebook
-#  url: https://www.facebook.com/example
-#  icon: ri:facebook-fill
-#  color: '#CCCCCC'
-
 - name: instagram
   url: https://www.instagram.com/example
   icon: mdi:instagram
   color: '#CCCCCC'
-
-#- name: x
-#  url: https://x.com/example
-#  icon: ri:twitter-x-fill
-#  color: '#CCCCCC'
-
-#- name: mastodon
-#  url: https://mastodon.social/@example
-#  icon: ri:mastodon-fill
-#  color: '#CCCCCC'
-
 - name: whatsapp
   url: https://wa.me/5515991255609
   icon: mdi:whatsapp
