@@ -7,3 +7,7 @@
     - title: Curriculum Vitae
       url: https://www.example.com
       icon: line-md:clipboard-list-twotone
+      
+    - title: Photography
+      url: https://www.example.com
+      icon: line-md:image-twotone
