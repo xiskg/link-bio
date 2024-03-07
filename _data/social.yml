@@ -27,3 +27,8 @@
 #  url: https://www.youtube.com/@example
 #  icon: ri:youtube-fill
 #  color: '#CCCCCC'
+
+- name: email
+  url: mailto:joao@dealmeida.me
+  icon: ri:mail-fill
+  color: '#CCCCCC
