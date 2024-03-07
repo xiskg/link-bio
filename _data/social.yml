@@ -21,14 +21,9 @@
 - name: whatsapp
   url: https://wa.me/5515991255609
   icon: ri:whatsapp-fill
-  color: '#CCCCCC
-
-#- name: youtube
-#  url: https://www.youtube.com/@example
-#  icon: ri:youtube-fill
-#  color: '#CCCCCC'
+  color: '#CCCCCC'
 
 - name: email
   url: mailto:joao@dealmeida.me
   icon: ri:mail-fill
-  color: '#CCCCCC
+  color: '#CCCCCC'
