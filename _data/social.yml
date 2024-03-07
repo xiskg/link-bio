@@ -5,7 +5,7 @@
 
 - name: instagram
   url: https://www.instagram.com/example
-  icon: ri:instagram-fill
+  icon: mdi:instagram
   color: '#CCCCCC'
 
 #- name: x
@@ -20,10 +20,10 @@
 
 - name: whatsapp
   url: https://wa.me/5515991255609
-  icon: ri:whatsapp-fill
+  icon: mdi:whatsapp
   color: '#CCCCCC'
 
 - name: email
   url: mailto:joao@dealmeida.me
-  icon: ri:mail-fill
+  icon: mdi:email
   color: '#CCCCCC'
