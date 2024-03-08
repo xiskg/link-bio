@@ -1,12 +1,12 @@
 - name: instagram
   url: https://www.instagram.com/example
-  icon: mdi:instagram
+  icon: mri:instagram-line
   color: '#CCCCCC'
 - name: whatsapp
   url: https://wa.me/5515991255609
-  icon: mdi:whatsapp
+  icon: ri:whatsapp-line
   color: '#CCCCCC'
 - name: linkedin
   url: https://www.linkedin.com/in/jojoao/
-  icon: ri:linkedin-line
+  icon: ri:linkedin-box-line
   color: '#CCCCCC'
