@@ -2,7 +2,7 @@
 theme: linkhub-jekyll-theme
 
 # Site Configuration
-name: # Name of your website
+name: ~ # Name of your website
 tagline: João | Brand Designer # Set your preferred page title
 description: Branding | Typography | Photography  # Also used as a meta description
 favicon: https://picsum.photos/32/32 # Path / URL to the favicon of your website (e.g., 'assets/images/favicon.png')
