@@ -8,5 +8,5 @@
   color: '#CCCCCC'
 - name: linkedin
   url: https://www.linkedin.com/in/jojoao/
-  icon: mdi:linkedin
+  icon: ri:linkedin-fill
   color: '#CCCCCC'
