@@ -1,6 +1,6 @@
 - name: instagram
   url: https://www.instagram.com/example
-  icon: mri:instagram-line
+  icon: ri:instagram-line
   color: '#CCCCCC'
 - name: whatsapp
   url: https://wa.me/5515991255609
