@@ -1,16 +1,16 @@
 - category:
   items:
     - title: Projects
-      url: https://www.example.org
+      url: https://be.net/dealmeida
       icon: line-md:briefcase-twotone
       
     - title: Photography
       url: https://www.example.com
       icon: line-md:image-twotone
       
-    - title: Curriculum Vitae | PT
-      url: https://www.example.com
+    - title: Curriculum Vitae | English
+      url: https://1drv.ms/w/s!Ai28kW3uruLUxmGvqg-bo_KSYoXt
       icon: line-md:clipboard-list-twotone
-    - title: Curriculum Vitae | EN
-      url: https://www.example.com
+    - title: Curriculum Vitae | Portuguese
+      url: https://1drv.ms/w/s!Ai28kW3uruLUxXgZ9ZrEBBddoS51
       icon: line-md:clipboard-list-twotone
