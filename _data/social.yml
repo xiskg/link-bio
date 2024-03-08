@@ -6,3 +6,7 @@
   url: https://wa.me/5515991255609
   icon: mdi:whatsapp
   color: '#CCCCCC'
+- name: linkedin
+  url: https://www.linkedin.com/in/jojoao/
+  icon: mdi:linkedin
+  color: '#CCCCCC'
