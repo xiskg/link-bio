@@ -6,14 +6,14 @@ name: João | Brand Designer # Name of your website
 #tagline: # Set your preferred page title
 description: Branding | Typography | Photography  # Also used as a meta description
 favicon: https://picsum.photos/32/32 # Path / URL to the favicon of your website (e.g., 'assets/images/favicon.png')
-logo: https://media.licdn.com/dms/image/D4D03AQE7pif4rNKqgQ/profile-displayphoto-shrink_800_800/0/1690951800718?e=1715212800&v=beta&t=VTyvvRPG8IYmiAZfR6VkAgL8GrEDrI6PvzKo8N5gXuA # Path / URL to the logo (e.g., 'assets/images/logo.png')
+logo: https://media.licdn.com/dms/image/D4D03AQGdla2V5cAjGw/profile-displayphoto-shrink_800_800/0/1710107368245?e=1715817600&v=beta&t=lSRKp7HAc8yp6q4blxJz2fjCxnjd6II2oMHbgO4sKbo # Path / URL to the logo (e.g., 'assets/images/logo.png')
 url: https://dealmeida.me # URL of your website
 locale: pt_BR # The value specifies the locale in which these tags are marked up. It follows the format `language_TERRITORY`.
 ga4: G-XXXXXXX # Google Analytics 4 measurement ID (optional). Remove it if not needed.
 twitter:
   username: xiskg # Used for SEO
 image:
-  path: https://media.licdn.com/dms/image/D4D03AQE7pif4rNKqgQ/profile-displayphoto-shrink_800_800/0/1690951800718?e=1715212800&v=beta&t=VTyvvRPG8IYmiAZfR6VkAgL8GrEDrI6PvzKo8N5gXuA # Used for SEO
+  path: https://media.licdn.com/dms/image/D4D03AQGdla2V5cAjGw/profile-displayphoto-shrink_800_800/0/1710107368245?e=1715817600&v=beta&t=lSRKp7HAc8yp6q4blxJz2fjCxnjd6II2oMHbgO4sKbo # Used for SEO
   type: jpeg # File format of image. Change according to your image. Supported types: https://en.wikipedia.org/wiki/Media_type#Common_examples
   height: 100 # Pixels
   width: 100
