@@ -8,9 +8,9 @@
       url: https://www.example.com
       icon: line-md:image-twotone
       
-    - title: Curriculum Vitae | English
-      url: https://1drv.ms/w/s!Ai28kW3uruLUxmGvqg-bo_KSYoXt
-      icon: line-md:clipboard-list-twotone
-    - title: Curriculum Vitae | Portuguese
-      url: https://1drv.ms/w/s!Ai28kW3uruLUxXgZ9ZrEBBddoS51
-      icon: line-md:clipboard-list-twotone
+    #- title: Curriculum Vitae | English
+    #  url: https://1drv.ms/w/s!Ai28kW3uruLUxmGvqg-bo_KSYoXt
+    #  icon: line-md:clipboard-list-twotone
+    # title: Curriculum Vitae | Portuguese
+    #  url: https://1drv.ms/w/s!Ai28kW3uruLUxXgZ9ZrEBBddoS51
+    #  icon: line-md:clipboard-list-twotone
