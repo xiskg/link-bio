@@ -4,9 +4,9 @@
       url: https://be.net/dealmeida
       icon: line-md:briefcase-twotone
       
-    - title: Photography
-      url: https://www.example.com
-      icon: line-md:image-twotone
+    # - title: Photography
+    #   url: https://www.example.com
+    #   icon: line-md:image-twotone
       
     #- title: Curriculum Vitae | English
     #  url: https://1drv.ms/w/s!Ai28kW3uruLUxmGvqg-bo_KSYoXt
